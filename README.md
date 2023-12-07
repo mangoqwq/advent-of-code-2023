@@ -12,7 +12,7 @@ Hope to get top hundred again... ＞﹏＜
 | 4   | Scratchcards                    | 00:04:05 / 378th | 00:08:31 / 195th  | 0 + 0 = 0   | >100th      |
 | 5   | If You Give A Seed A Fertilizer | 00:15:45 / 737th | 00:24:20 / 70th   | 0 + 31 = 31 | >100th      |
 | 6   | Wait For It                     | 00:03:12 / 103rd | 00:06:23 / 273rd  | 0 + 0 = 0   | >100th      |
-| 7   |                                 |                  |                   |             |             |
+| 7   | Camel Cards                     | 00:19:40 / 910th | 00:27:16 / 598th  | 0 + 0 = 0   | >100th      |
 | 8   |                                 |                  |                   |             |             |
 | 9   |                                 |                  |                   |             |             |
 | 10  |                                 |                  |                   |             |             |
