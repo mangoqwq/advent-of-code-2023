@@ -19,7 +19,7 @@ Hope to get top hundred again... ＞﹏＜
 | 11  | Cosmic Expansion                | 00:04:58 / 40th    | 00:06:03 / 21st    | 61 + 80 = 141 | 86th        |
 | 12  | Hot Springs                     | 00:12:22 / 287th   | 00:22:03 / 88th    | 0 + 13 = 13   | 98th        |
 | 13  | Point of Incidence              | 00:05:06 / 7th     | 00:06:11 / 2nd     | 94 + 99 = 193 | 51st        |
-| 14  |                                 |                    |                    |               |             |
+| 14  | Parabolic Reflector Dish        | 00:03:55 / 76th    | 00:14:39 / 55th    | 25 + 46 = 71  | 48th        |
 | 15  |                                 |                    |                    |               |             |
 | 16  |                                 |                    |                    |               |             |
 | 17  |                                 |                    |                    |               |             |
