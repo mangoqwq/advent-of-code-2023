@@ -20,7 +20,7 @@ Hope to get top hundred again... ＞﹏＜
 | 12  | Hot Springs                     | 00:12:22 / 287th   | 00:22:03 / 88th    | 0 + 13 = 13   | 98th        |
 | 13  | Point of Incidence              | 00:05:06 / 7th     | 00:06:11 / 2nd     | 94 + 99 = 193 | 51st        |
 | 14  | Parabolic Reflector Dish        | 00:03:55 / 76th    | 00:14:39 / 55th    | 25 + 46 = 71  | 48th        |
-| 15  |                                 |                    |                    |               |             |
+| 15  | Lens Library                    | 00:02:35 / 202nd   | 00:15:11 / 397th   | 0 + 0 = 0     | 56th        |
 | 16  |                                 |                    |                    |               |             |
 | 17  |                                 |                    |                    |               |             |
 | 18  |                                 |                    |                    |               |             |
