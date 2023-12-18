@@ -23,7 +23,7 @@ Hope to get top hundred again... ＞﹏＜
 | 15  | Lens Library                    | 00:02:35 / 202nd   | 00:15:11 / 397th   | 0 + 0 = 0     | 56th        |
 | 16  | The Floor Will Be Lava          | 00:15:39 / 307th   | 00:19:37 / 262nd   | 0 + 0 = 0     | 65th        |
 | 17  | Clumsy Crucible                 | 00:26:19 / 572nd   | 00:30:43 / 420th   | 0 + 0 = 0     | 70th        |
-| 18  |                                 |                    |                    |               |             |
+| 18  | Lavaduct Lagoon                 | 00:08:30 / 107th   | 01:36:28 / 2021st  | 0 + 0 = 0     | 74th        |
 | 19  |                                 |                    |                    |               |             |
 | 20  |                                 |                    |                    |               |             |
 | 21  |                                 |                    |                    |               |             |
