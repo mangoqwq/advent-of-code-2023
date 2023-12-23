@@ -26,7 +26,7 @@ Hope to get top hundred again... ＞﹏＜
 | 18  | Lavaduct Lagoon                 | 00:08:30 / 107th   | 01:36:28 / 2021st  | 0 + 0 = 0     | 74th        |
 | 19  | Aplenty                         | >24h               | >24h               | 0 + 0 = 0     | 81st        |
 | 20  | Pulse Propagation               | 00:22:09 / 76th    | 01:17:07 / 715th   | 0 + 0 = 0     | 83rd        |
-| 21  |                                 |                    |                    |               |             |
+| 21  | Step Counter                    | >24h               | >24h               | 0 + 0 = 0     | ??th        |
 | 22  | Sand Slabs                      | 00:19:05 / 73rd    | 00:20:00 / 27th    | 28 + 74 = 102 | 74th        |
 | 23  |                                 |                    |                    |               |             |
 | 24  |                                 |                    |                    |               |             |
