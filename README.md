@@ -28,6 +28,6 @@ Hope to get top hundred again... ＞﹏＜
 | 20  | Pulse Propagation               | 00:22:09 / 76th    | 01:17:07 / 715th   | 0 + 0 = 0     | 83rd        |
 | 21  | Step Counter                    | >24h               | >24h               | 0 + 0 = 0     | ??th        |
 | 22  | Sand Slabs                      | 00:19:05 / 73rd    | 00:20:00 / 27th    | 28 + 74 = 102 | 74th        |
-| 23  |                                 |                    |                    |               |             |
+| 23  | A Long Walk                     | 00:05:10 / 14th    | 00:29:39 / 56th    | 87 + 45 = 132 | 66th        |
 | 24  |                                 |                    |                    |               |             |
 | 25  |                                 |                    |                    |               |             |
