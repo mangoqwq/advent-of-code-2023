@@ -2,6 +2,8 @@
 
 Hope to get top hundred again... ＞﹏＜
 
+UPDATE: YIPEE!!!
+
 ## Progress
 
 | Day | Name                            | Part 1             | Part 2             | Points        | Global Rank |
@@ -30,4 +32,4 @@ Hope to get top hundred again... ＞﹏＜
 | 22  | Sand Slabs                      | 00:19:05 / 73rd    | 00:20:00 / 27th    | 28 + 74 = 102 | 74th        |
 | 23  | A Long Walk                     | 00:05:10 / 14th    | 00:29:39 / 56th    | 87 + 45 = 132 | 66th        |
 | 24  | Never Tell Me The Odds          | 00:24:51 / 306th   | 01:12:19 / 167th   | 0 + 0 = 0     | 69th        |
-| 25  |                                 |                    |                    |               |             |
+| 25  | Snowverload                     | 00:13:45 / 107th   | 00:13:48 / 96th    | 0 + 5 = 5     | 72nd        |
